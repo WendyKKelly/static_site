@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/udemy",function(){return{page:webpackJsonp([9],{271:function(e,n,o){e.exports=o(272)},272:function(e,n){}},[271]).default}});

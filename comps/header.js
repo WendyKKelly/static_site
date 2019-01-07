@@ -61,9 +61,6 @@ this.videoSearch('surfboards');
         <Link href="/about">
           <a style={linkStyle}>About</a>
         </Link>
-        <Link href="/app">
-          <a style={linkStyle}>App</a>
-        </Link>
     </div>
 );
 }

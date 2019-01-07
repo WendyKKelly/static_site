@@ -1,5 +1,5 @@
 import Collapsible from './Collapsible';
-import image from '../images/expand-vertical-4.svg';
+//import image from '../images/expand-vertical-4.svg';
 import Header from '../comps/header';
 import Layout from '../comps/layout.js';
 import Link from 'next/link';
@@ -24,7 +24,7 @@ class Index extends React.Component {
 
       <div>
        <header>
-       <img src={image} />
+       
          <h1>Fetching Data <button className="btn btn-sm btn-danger">Fetch now</button></h1>
          </header>
          <div className="content">

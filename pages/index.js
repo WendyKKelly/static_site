@@ -1,5 +1,6 @@
 // This is the Link API
 
+import React from 'react'
 import Header from '../comps/header'
 import Layout from '../comps/layout.js'
 

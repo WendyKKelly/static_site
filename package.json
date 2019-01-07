@@ -19,7 +19,13 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-markdown": "^4.0.3",
-    "youtube-api-search": "0.0.5"
+    "youtube-api-search": "0.0.5",
+    "axios": "^0.18.0",
+    "react-router-dom": "^4.2.2",
+    "redux-form": "^6.6.3",
+    "redux-promise": "^0.6.0",
+    "react-transition-group": "^1.2.1",
+    "redux": "4.0.0"
   },
   "author": "",
   "license": "ISC"
